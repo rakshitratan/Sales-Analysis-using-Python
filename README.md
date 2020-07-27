@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales Analysis of the supermarkets 1st quarter dataset:
 Sales Analysis
 
 # DataSet: https://www.kaggle.com/aungpyaeap/supermarket-sales
