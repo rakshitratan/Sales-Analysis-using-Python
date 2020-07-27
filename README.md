@@ -25,3 +25,21 @@ Attribute information:
  - Gross margin percentage: Gross margin percentage
  - Gross income: Gross income
  - Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
+
+# Data Cleaning:
+- Converting the 'Date' column into datetime data type,
+- Adding 'year', 'month' & 'income' columns,
+- dropping 'gross income' column, because the value in that column is calculated using the nearest integer value to the 'gross margin percentage' column.
+
+# Data exploration:
+In this section we start to look for answers by exploring the data:
+
+The following questions were answered: 
+- Question 1: What was the best month for sales? What was the Income & quantity sold in that month?
+- Question 2: What City and Branch sold the most product?
+- Question 3: What products line are mostly sold?
+- Question 4: What products line brought most income and sold most quantity comparable to average price of the product line?
+- Question 5: Which gender are most shopaholic?
+- Question 6: Does most satisfied customer's spend more?
+- Question 7: What payment type is mostly used?
+- Question 8: Finding the correlation between the attributes.
